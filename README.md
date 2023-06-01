@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Dart & Flutter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me khanaasim9910@gmail.com
 
